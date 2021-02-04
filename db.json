@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Amr Hesham",
+      "age": 23,
+      "phone": "01123456789"
+    },
+    {
+      "id": 2,
+      "name": "Mohamed Ahmed",
+      "age": 22,
+      "phone": "01123400011"
+    },
+    {
+      "id": 3,
+      "name": "Ahmed Samy",
+      "age": 18,
+      "phone": "01125665165"
+    },
+    {
+      "id": 1,
+      "name": "Hazem Wael",
+      "age": 23,
+      "phone": "01123456789"
+    },
+    {
+      "id": 2,
+      "name": "Mohamed Osama",
+      "age": 22,
+      "phone": "01123400011"
+    },
+    {
+      "id": 3,
+      "name": "Emad Jamal",
+      "age": 18,
+      "phone": "01125665165"
+    }
+  ]
+}
